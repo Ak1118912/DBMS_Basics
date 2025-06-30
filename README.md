@@ -11,7 +11,7 @@ This repository covers the fundamentals of Database Management Systems (DBMS), i
 ## Getting Started
 
 1. Clone this repository:
-git clone https://github.com/your-username/DBMS_Basics.git
+git clone https://github.com/Ak1118912/DBMS_Basics.git
 
 2. Open the SQL files in your preferred database client (e.g., MySQL, PostgreSQL, SQLite).
 
